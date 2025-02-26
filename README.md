@@ -1,6 +1,9 @@
 ## Hi there, I'm Honorius2 👋
 
 Welcome to my GitHub profile! I'm passionate about **cybersecurity**, **software development**, and **data protection**, with a focus on **digital healthcare systems**. Currently, I'm working on securing personal data and improving digital health infrastructures.
+**Master's Student in Information Security**
+**Football**
+**Anime fan**
 
 ### 🔭 What I'm working on
 - Developing secure solutions in the health tech sector.
@@ -8,9 +11,6 @@ Welcome to my GitHub profile! I'm passionate about **cybersecurity**, **software
 
 ### 🌱 I'm learning
 - Advanced techniques in risk management and data encryption.
-
-### 👯 Let's collaborate on
-- Security research projects or development challenges.
 
 ### 💬 Ask me about
 - Cybersecurity best practices, data privacy laws, and secure coding.
